@@ -10,9 +10,5 @@ Personally though, I most enjoy web development, as I've found it to be the most
 As a general thing, I would, as many others would too, consider myself a spite-based developer. While I do programming for a variety of reasons, I've found my best work is usually the result of "why the hell would they design it like that? Screw it, I'm gonna do it myself, just to prove a point".
 
 ---
-Finally, and I mean this with full seriousness...
-### I AM A JAVA HATER UNTIL I DIE
-while mobile development and minecraft modding are tempting, every single interaction I have with the language reminds me that god is dead, and we killed him.
 
----
 Anyway, that's me, I love learning and trying new things and my GitHub is primarily to track that fact.
